@@ -1,0 +1,1 @@
+counts = vectorizer.fit_transform(data['message'].values)
